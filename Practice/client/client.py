@@ -181,4 +181,4 @@ if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
     myapp = Client()
     myapp.show()
-    sys.exit(app.exec_())
+    sys.exit(app.exec_()) 
