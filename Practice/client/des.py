@@ -111,4 +111,4 @@ class Ui_MainWindow(object):
         self.pushButton_5.setText(_translate("MainWindow", "Сгенерировать данные для подключения"))
         self.lineEdit_4.setPlaceholderText(_translate("MainWindow", "Адрес сервера.."))
         self.lineEdit_5.setPlaceholderText(_translate("MainWindow", "Порт сервера.."))
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_2), _translate("MainWindow", "Настройки"))
+        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_2), _translate("MainWindow", "Настройки")) 
