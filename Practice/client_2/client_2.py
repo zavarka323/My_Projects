@@ -6,7 +6,7 @@ import shelve
 import socket
 import threading
 from PyQt5 import QtCore, QtGui, QtWidgets
-from des import *
+from des import * 
 
 
 # Мониторинг входящих сообщений
